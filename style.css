@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.color-of-mission{
+    color: #fcac5c;
+}
+p{
+    text-align: justify;
+    margin-right: 15%;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.banner-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 0%;
+}
+.banner-width img{
+    width: 80%;
+}
